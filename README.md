@@ -9,10 +9,8 @@ Recommending collage courses and jobs to students based on students' interests.
 - matplotlib
 - SpaCy
 
-## Screenshots
+## Example Screenshot
 
 ![alt text](./Screenshots/1.png)
-![alt text](./Screenshots/2.png)
-
 
 
